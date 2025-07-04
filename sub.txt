@@ -1,1 +1,2 @@
 vless://d67a34f0-bbaa-4734-bc5c-6939236b7a23@84.47.235.214:22212?type=tcp&security=none#IRANNN-PC
+https://ai.dlstorefaraz.ir:2096/sub/Bita
